@@ -1,0 +1,10 @@
+main: ga.tumgaming.TUMain
+name: TUMain
+prefix: TUMain
+author: GeneralMine, HrMoritz, Laurox
+version: ${project.version}
+api-version: "1.14"
+depend:
+  - Vault
+
+commands:
